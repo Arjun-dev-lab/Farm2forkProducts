@@ -2,11 +2,31 @@
     {
       "name": "Tomato",
       "price": "₹40/kg",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/tomato_image.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/tomato_image.jpeg"
     },
     {
       "name": "Potato",
       "price": "₹30/kg",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/potato_image.jpg"
-    }
+      "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/tomato_image.jpeg"
+    },
+    {
+        "name": "Chilly",
+        "price": "₹40/kg",
+        "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/tomato_image.jpeg"
+      },
+      {
+        "name": "Mushroom",
+        "price": "₹30/kg",
+        "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/tomato_image.jpeg"
+      },
+      {
+        "name": "Cabage",
+        "price": "₹40/kg",
+        "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/tomato_image.jpeg"
+      },
+      {
+        "name": "Tapioca",
+        "price": "₹30/kg",
+        "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/tomato_image.jpeg"
+      }
   ]

@@ -1,35 +1,41 @@
 [
   {
+    "id": 1,
     "name": "Tomato",
     "price": "₹40/kg",
     "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/tomato_image.png",
     "description": "Fresh, ripe tomatoes bursting with flavor, offering a perfect balance of sweetness and tang. These tomatoes are handpicked at peak ripeness to ensure the best taste and quality. They are rich in vitamins, particularly vitamin C and vitamin K, as well as minerals like potassium. Additionally, they are packed with antioxidants, such as lycopene, which is known for its health benefits, including reducing the risk of heart disease and certain cancers. Tomatoes are a versatile ingredient, perfect for adding a burst of freshness to salads, enhancing the flavor of soups and sauces, or even serving as a delicious garnish."
   },
   {
+    "id": 2,
     "name": "Potato",
     "price": "₹30/kg",
     "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/potato_image.png",
     "description": "Golden, starchy potatoes that are a staple in many cuisines around the world. These versatile tubers can be prepared in numerous ways, including boiling, mashing, frying, or roasting. Rich in carbohydrates, they provide a great source of energy, and they are also high in dietary fiber, which aids in digestion. Potatoes are known for their ability to complement a wide variety of dishes, from comforting mashed potatoes and crispy fries to gourmet dishes like potato gratin or gnocchi. They are also a good source of vitamins, such as vitamin C and vitamin B6, and minerals like potassium."
   },
   {
+    "id": 3,
     "name": "Chilly",
     "price": "₹40/kg",
     "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/chilly_image.png",
     "description": "Spicy and bold, these chilies are packed with heat and flavor, making them a must-have ingredient for those who love a bit of spice in their food. Whether you prefer them fresh, dried, or ground into powder, chilies bring a fiery kick to any dish. They are not only known for their intense flavor but also for their health benefits. Chilies contain capsaicin, which is known to boost metabolism, reduce inflammation, and improve digestion. Adding chilies to your meals can also enhance the absorption of other nutrients, making your dishes both delicious and nutritious."
   },
   {
+    "id": 4,
     "name": "Mushroom",
     "price": "₹30/kg",
     "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/mushroom_image.png",
     "description": "These tender and earthy mushrooms are packed with umami flavor, making them a favorite among vegetarians and non-vegetarians alike. Mushrooms are low in calories but rich in essential nutrients like vitamins B and D, antioxidants, and fiber. They are an excellent choice for adding depth and richness to soups, stir-fries, salads, or even as a meat substitute in dishes like mushroom burgers or vegetarian bolognese. Mushrooms also contain beta-glucans, which are known to support immune function and overall health."
   },
   {
+    "id": 5,
     "name": "Cabbage",
     "price": "₹40/kg",
     "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/cabbage_image.png",
     "description": "Crunchy, vibrant cabbage adds a refreshing texture and mild sweetness to any dish. Packed with vitamins C and K, this leafy green is known for its numerous health benefits, including aiding digestion, supporting immune function, and promoting healthy skin. Cabbage is also a good source of dietary fiber, which can help maintain a healthy gut. Whether you use it raw in coleslaw, sautéed in stir-fries, or even pickled for kimchi, cabbage is a versatile and nutritious addition to your meals."
   },
   {
+    "id": 6,
     "name": "Tapioca",
     "price": "₹30/kg",
     "imageUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Farm2forkProducts/refs/heads/main/tapioca_image.png",

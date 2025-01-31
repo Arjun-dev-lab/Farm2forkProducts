@@ -1,0 +1,27 @@
+name: Update Stock
+on:
+  repository_dispatch:
+    types: [update_stock]
+
+jobs:
+  update-stock:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update Stock
+        run: |
+          # Read payload (product ID and quantity)
+          PRODUCT_ID=${{ github.event.client_payload.product_id }}
+          QUANTITY=${{ github.event.client_payload.quantity }}
+
+          # Update products.json
+          jq --arg id "$PRODUCT_ID" --argjson qty "$QUANTITY" \
+            'map(if .id == $id then .stock -= $qty else . end)' products.json > tmp.json
+          mv tmp.json products.json
+
+          # Commit changes
+          git config --global user.name "GitHub Bot"
+          git config --global user.email "bot@example.com"
+          git add products.json
+          git commit -m "Reduce stock for product $PRODUCT_ID by $QUANTITY"
+          git push
